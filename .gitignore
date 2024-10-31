@@ -6,7 +6,6 @@
 .txt
 
 # Ignoring .env files (for the API key)
-.env
 .env.test
 
 # linters to use for neovim
